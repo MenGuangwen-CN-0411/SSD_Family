@@ -12,6 +12,8 @@ FSSD
 
 DSSD
 
+RefineDet
+
 DSOD
 
 S3FD

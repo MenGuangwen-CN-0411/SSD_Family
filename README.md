@@ -22,6 +22,6 @@ M2DET
 
 CFE-net
 
-Repulsion Loss: Detecting Pedestrians in a Crowd
+And other papers base on SSD method...
 
 All this repo is working, please wait for a few days...

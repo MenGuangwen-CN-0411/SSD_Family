@@ -20,6 +20,8 @@ S3FD
 
 RFB
 
+RepLoss 
+
 M2DET
 
 CFE-net
